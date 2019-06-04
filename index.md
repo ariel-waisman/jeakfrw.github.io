@@ -20,20 +20,38 @@ Additionally, plugins can register their own services to provide other dependent
 ### What services do currently exist?
 The following services are currently available for plugins to use:
 * __Basic injections__  
-* __(Chat) Commands__
-* __Sending mails via. SMTP__
-* __User profiles__
-* __Permissions__
+  _Do not worry about how to get services; let us provide them to you._  
+* __(Chat) Commands__  
+  _Quickly register a listener for a specific user command._
+  (More refinement is planned.)
+* __Sending mails via. SMTP__  
+  _We will take care of authorization, transport, etc. - you focus on the message._
+* __User profiles__  
+  _Store additional information about users and even merge multiple TS3 identities into one profile._
+* __Permissions__  
+  _Just ask: "Is this user allowed to do this" and we'll work that our for you._
   * TeamSpeak 3
   * Custom plugin permissions
-* __Configuration__
-* __Database-connection__
+* __Configuration__  
+  _Need a configuration? No problem, we'll give you one. No need to worry about format, location, loading, saving, etc._
+* __Database-connection__  
+  _We will take care of credentials and connection pooling, you focus on your queries._
   * Low-level (``DataSource``, sql statements, ...)
-  * High-level (Hibernate integration)
-* __Notifications__
-* __Localization__
-* __Caches__
+  * High-level (Hibernate integration)  
+    _Hibernate will even take care of your queries, while you focus on your business objects._
+* __Notifications__  
+  _Do not even check whether or not a client is actually online/available, just tell us to notify him._ (More refinement is planned.)
+* __Localization__  
+  _Languages are hard! So we ask the server owners to decide what the actual messages are supposed to be. ~~Identifiers are cooler anyways~~._
+* __Caches__  
+  _Just ask us, who and what is on the server. No need to query TS3 every time we need a client._
   * Channels on server
   * Clients on server
-* __Users__ (clients who are offline)
+* __Users__ (clients who are offline)  
+  _Need to do something with a user who is not online? There you go~_
 
+### Links
+* Documentation & Guides: https://jeakbot.readme.io  
+* Issues, Code & Planning: https://github.com/jeakfrw/core-framework
+* Plugins made by FearNixx Gaming: https://gitlab.com/fearnixxgaming/jeakbot/
+* ReadMe: [On GitHub](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/README.md)
