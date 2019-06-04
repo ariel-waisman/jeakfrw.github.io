@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Jeak Framework
+url: jeak.fearnixx.de
+exclude:
+  - .idea/
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - '*.iml'

@@ -1,0 +1,9 @@
+# Generated
+_site/
+
+# IDEs
+.idea/
+*.iml
+
+# File managers
+.directory

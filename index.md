@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Hi! Welcome to our showcase page.
+Meet the Jeak framework for TeamSpeak 3 servers:  
 
-You can use the [editor on GitHub](https://github.com/jeakfrw/jeakfrw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> _Ever set up a Minecraft server with plugins?  
+  We wanted to have this, just for TeamSpeak.  
+  So we built just that!_ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is the Jeak framework?
+The Jeak framework is a new and open source framework written in Java. It allows any developer to create plugins that interact with a TeamSpeak server.  
+We aim to reduce the burden by taking care of many, usually tedious, things that an own application would have to implement.  
+With Jeak, __developers can focus on what they really want to do: Code their awesome feature!__  
+  
+Plugins can communicate with the framework via an extensive plugin API which covers every part of the framework and provides stable and reliable contracts for plugin developers to work with.  
+  
+### How does Jeak accomplish this?
+The framework contains many services that plugins can utilize to do what they need to do.  
+Each service is only responsible for one functionality which results in very modular implementation code.  
+Additionally, plugins can register their own services to provide other dependent plugins with their functionality.  
+  
+### What services do currently exist?
+The following services are currently available for plugins to use:
+* __Basic injections__  
+* __(Chat) Commands__
+* __Sending mails via. SMTP__
+* __User profiles__
+* __Permissions__
+  * TeamSpeak 3
+  * Custom plugin permissions
+* __Configuration__
+* __Database-connection__
+  * Low-level (``DataSource``, sql statements, ...)
+  * High-level (Hibernate integration)
+* __Notifications__
+* __Localization__
+* __Caches__
+  * Channels on server
+  * Clients on server
+* __Users__ (clients who are offline)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeakfrw/jeakfrw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
