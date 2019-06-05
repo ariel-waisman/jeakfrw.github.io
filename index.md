@@ -51,7 +51,14 @@ The following services are currently available for plugins to use:
   _Need to do something with a user who is not online? There you go~_
 
 ### Links
-* Documentation & Guides: https://jeakbot.readme.io  
-* Issues, Code & Planning: https://github.com/jeakfrw/core-framework
-* Plugins made by FearNixx Gaming: https://gitlab.com/fearnixxgaming/jeakbot/
+* Documentation & Guides: [https://jeakbot.readme.io](https://jeakbot.readme.io)  
+* Issues, Code & Planning: [https://github.com/jeakfrw/core-framework](https://github.com/jeakfrw/core-framework)  
+* Plugins made by FearNixx Gaming: [https://gitlab.com/fearnixxgaming/jeakbot/](https://gitlab.com/fearnixxgaming/jeakbot/)
 * ReadMe: [On GitHub](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/README.md)
+* Support available on Discord: [https://discord.gg/DPYR5aB](https://discord.gg/DPYR5aB) (English/German)  
+  _Yes, we know - but this is an easy way for OSS to provide support to you ':D_
+* We live on TeamSpeak ^^: [ts.fearnixx.de](ts3server://ts.fearnixx.de) (German)  
+  _(This is our community TS - it is not supposed for providing Jeak support!)_
+* Our community: [https://fearnixx.de](https://fearnixx.de)
+  _(German)_  
+ 
