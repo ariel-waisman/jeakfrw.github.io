@@ -64,7 +64,7 @@ The following services are currently available for plugins to use:
   _Need to do something with a user who is not online? There you go~_
 
 ### Links
-* Documentation & Guides: https://jeakbot.readme.io  
-* Issues, Code & Planning: https://github.com/jeakfrw/core-framework
-* Plugins made by FearNixx Gaming: https://gitlab.com/fearnixxgaming/jeakbot/
+* Documentation & Guides: [https://jeakbot.readme.io](https://jeakbot.readme.io)
+* Issues, Code & Planning: [https://github.com/jeakfrw/core-framework](https://github.com/jeakfrw/core-framework)
+* Plugins made by FearNixx Gaming: [https://gitlab.com/fearnixxgaming/jeakbot/](https://gitlab.com/fearnixxgaming/jeakbot/)
 * ReadMe: [On GitHub](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/README.md)
