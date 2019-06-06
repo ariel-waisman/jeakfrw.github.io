@@ -30,6 +30,14 @@ The framework contains many services that plugins can utilize to do what they ne
 Each service is only responsible for one functionality which results in very modular implementation code.  
 Additionally, plugins can register their own services to provide other dependent plugins with their functionality.  
   
+We believe that creating and freely distributing the project helps the bigger cause of improving TeamSpeak 3 experience for everyone.  
+Although not enforced, we urge all plugin developers to do the same for their plugins and serve the community :)  
+Even without developing a plugin, anyone can actively help the project by contributing by other means:
+* Testing & submitting bug reports
+* Sharing own knowledge and experience with the community (help others)
+* Suggesting new features and ideas to keep the project moving forward
+* Generally taking part in discussions about anything in the ecosystem - keep the minds fresh :)
+  
 ### What services do currently exist?
 The following services are currently available for plugins to use:
 * __Basic injections__  
