@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Jeak Framework
 url: jeakfrw.github.io
-google_analytics: UA-142064115-1
 exclude:
   - .idea/
   - Gemfile
@@ -11,3 +10,4 @@ exclude:
 github:
   is_project_page: true
   repository_url: https://github.com/jeakfrw/core-framework
+google_analytics: "UA-142064115-1"
