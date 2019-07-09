@@ -4,6 +4,12 @@ Meet the Jeak framework for TeamSpeak 3 servers:
 > _Ever set up a Minecraft server with plugins?  
   We wanted to have this, just for TeamSpeak.  
   So we built just that!_ 
+  
+[![ShieldsIO](https://img.shields.io/github/license/jeakfrw/core-framework.svg?color=success&style=flat-square)](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/LICENSE)
+[![ShieldsIO](https://img.shields.io/github/tag-pre/jeakfrw/core-framework.svg?color=yellow&style=flat-square)](https://github.com/jeakfrw/core-framework/releases)
+![ShieldsIO](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+[![ShieldsIO](https://img.shields.io/discord/533021399560880141.svg?style=flat-square)](https://discord.gg/DPYR5aB)    
+_[Click to see more badges](https://github.com/jeakfrw/core-framework/#badges)_
 
 ### What is the Jeak framework?
 #### For everyone
