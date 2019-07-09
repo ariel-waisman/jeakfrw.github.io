@@ -82,4 +82,4 @@ The following services are currently available for plugins to use:
   _(This is our community TS - it is not supposed for providing Jeak support!)_
 * Our community: [https://fearnixx.de](https://fearnixx.de)
   _(German)_  
- 
+* Artifacts & Jars hosted on Nexus OSS: [https://nexus.fearnixx.de](https://nexus.fearnixx.de)
