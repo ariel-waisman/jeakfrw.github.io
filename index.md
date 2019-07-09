@@ -6,16 +6,37 @@ Meet the Jeak framework for TeamSpeak 3 servers:
   So we built just that!_ 
 
 ### What is the Jeak framework?
-The Jeak framework is a new and open source framework written in Java. It allows any developer to create plugins that interact with a TeamSpeak server.  
+#### For everyone
+The Jeak framework is a new and open source framework written in Java.  
+It allows users to enhance their TeamSpeak 3 Server by installing plugins.  
+Plugins can be installed just like plugins for Minecraft - by dragging a Jar-file into the "plugins" directory.  
+Choose exactly what you want for your server - it's all yours!  
+Some plugins are already available for download - developed and released by us. :)
+
+#### For developers
+It allows any developer to create plugins that interact with a TeamSpeak server.  
 We aim to reduce the burden by taking care of many, usually tedious, things that an own application would have to implement.  
 With Jeak, __developers can focus on what they really want to do: Code their awesome feature!__  
   
 Plugins can communicate with the framework via an extensive plugin API which covers every part of the framework and provides stable and reliable contracts for plugin developers to work with.  
   
+#### For hosting providers
+The Jeak framework is completely free to use (M.I.T. licensed) even commercially.  
+We distribute all installation archives with extensive license information about our dependencies.  
+_If you integrate the framework into your hosting business, feel free to ask for a partnership for exclusive support!_
+  
 ### How does Jeak accomplish this?
 The framework contains many services that plugins can utilize to do what they need to do.  
 Each service is only responsible for one functionality which results in very modular implementation code.  
 Additionally, plugins can register their own services to provide other dependent plugins with their functionality.  
+  
+We believe that creating and freely distributing the project helps the bigger cause of improving TeamSpeak 3 experience for everyone.  
+Although not enforced, we urge all plugin developers to do the same for their plugins and serve the community :)  
+Even without developing a plugin, anyone can actively help the project by contributing by other means:
+* Testing & submitting bug reports
+* Sharing own knowledge and experience with the community (help others)
+* Suggesting new features and ideas to keep the project moving forward
+* Generally taking part in discussions about anything in the ecosystem - keep the minds fresh :)
   
 ### What services do currently exist?
 The following services are currently available for plugins to use:
