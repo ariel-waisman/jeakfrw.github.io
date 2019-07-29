@@ -27,9 +27,9 @@ With Jeak, __developers can focus on what they really want to do: Code their awe
 Plugins can communicate with the framework via an extensive plugin API which covers every part of the framework and provides stable and reliable contracts for plugin developers to work with.  
   
 #### For hosting providers
-The Jeak framework is completely free to use (M.I.T. licensed) even commercially.  
-We distribute all installation archives with extensive license information about our dependencies.  
-_If you integrate the framework into your hosting business, feel free to ask for a partnership for exclusive support!_
+The Jeak framework project is completely free to use (M.I.T. licensed) even commercially.  
+We distribute all installation archives with extensive license information about our dependencies (__please check their licenses too, as we cannot give reliable legal advice__).  
+_If you integrate the framework into your hosting business, feel free to ask for a partnership._
   
 ### How does Jeak accomplish this?
 The framework contains many services that plugins can utilize to do what they need to do.  
