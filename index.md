@@ -5,11 +5,11 @@ Meet the Jeak framework for TeamSpeak 3 servers:
   We wanted to have this, just for TeamSpeak.  
   So we built just that!_ 
   
-[![ShieldsIO](https://img.shields.io/github/license/jeakfrw/core-framework.svg?color=success&style=flat-square)](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/LICENSE)
-[![ShieldsIO](https://img.shields.io/github/tag-pre/jeakfrw/core-framework.svg?color=yellow&style=flat-square)](https://github.com/jeakfrw/core-framework/releases)
+[![ShieldsIO](https://img.shields.io/github/license/jeakfrw/jeak-framework.svg?color=success&style=flat-square)](https://github.com/jeakfrw/jeak-framework/blob/bleeding-1.X.X/LICENSE)
+[![ShieldsIO](https://img.shields.io/github/tag-pre/jeakfrw/jeak-framework.svg?color=yellow&style=flat-square)](https://github.com/jeakfrw/jeak-framework/releases)
 ![ShieldsIO](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
 [![ShieldsIO](https://img.shields.io/discord/533021399560880141.svg?style=flat-square)](https://discord.gg/DPYR5aB)    
-_[Click to see more badges](https://github.com/jeakfrw/core-framework/#badges)_
+_[Click to see more badges](https://github.com/jeakfrw/jeak-framework/#badges)_
 
 ### What is the Jeak framework?
 #### For everyone
@@ -79,9 +79,9 @@ The following services are currently available for plugins to use:
 
 ### Links
 * Documentation & Guides: [https://jeakbot.readme.io](https://jeakbot.readme.io)  
-* Issues, Code & Planning: [https://github.com/jeakfrw/core-framework](https://github.com/jeakfrw/core-framework)  
+* Issues, Code & Planning: [https://github.com/jeakfrw/jeak-framework](https://github.com/jeakfrw/jeak-framework)  
 * Plugins made by FearNixx Gaming: [https://gitlab.com/fearnixxgaming/jeakbot/](https://gitlab.com/fearnixxgaming/jeakbot/)
-* ReadMe: [On GitHub](https://github.com/jeakfrw/core-framework/blob/bleeding-1.X.X/README.md)
+* ReadMe: [On GitHub](https://github.com/jeakfrw/jeak-framework/blob/bleeding-1.X.X/README.md)
 * Support available on Discord: [https://discord.gg/DPYR5aB](https://discord.gg/DPYR5aB) (English/German)  
   _Yes, we know - but this is an easy way for OSS to provide support to you ':D_
 * We live on TeamSpeak ^^: [ts.fearnixx.de](ts3server://ts.fearnixx.de) (German)  
