@@ -7,7 +7,7 @@ Meet the Jeak framework for TeamSpeak 3 servers:
   
 [![ShieldsIO](https://img.shields.io/github/license/jeakfrw/jeak-framework.svg?color=success&style=flat-square)](https://github.com/jeakfrw/jeak-framework/blob/bleeding-1.X.X/LICENSE)
 [![ShieldsIO](https://img.shields.io/github/tag-pre/jeakfrw/jeak-framework.svg?color=yellow&style=flat-square)](https://github.com/jeakfrw/jeak-framework/releases)
-![ShieldsIO](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+![ShieldsIO](https://img.shields.io/maintenance/yes/2020.svg?style=flat-square)
 [![ShieldsIO](https://img.shields.io/discord/533021399560880141.svg?style=flat-square)](https://discord.gg/DPYR5aB)    
 _[Click to see more badges](https://github.com/jeakfrw/jeak-framework/#badges)_
 
